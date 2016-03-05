@@ -1,0 +1,28 @@
+name: Kan jeg skrive
+favicon: null
+layout_spectrum: 0.8152890710625798
+typography_spectrum: 0.781096562044695
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9415116200689226
+  lightness: 0.20712549006566405
+  saturation: 0.0174923415761441
+  rhythmicContrast: 0.5899045881815255
+purpose: []
