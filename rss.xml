@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Kan jeg skrive]]></title>
         <description><![CDATA[Kan jeg skrive]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kan-jeg-skrive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 22:24:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 22:31:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kan-jeg-skrive/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Prolog ]]></title>
             <description><![CDATA[<article><h1>Prolog </h1><p>Det skjer gjerne etter en litt lang dag på jobb. Jeg kommer hjem, ungene har lagt seg, og har lyst til å dykke ned i en god historie. Som regel ender jeg opp på sofaen foran tven, men av og til får jeg en liten ekstra gnist og tenker at det hadde vært gøy å skrive en historie selv. </p></article>]]></description>
-            <link>undefinedprolog/index.html</link>
+            <link>https://thegrid.ai/kan-jeg-skrive/prolog/index.html</link>
             <guid isPermaLink="false">bd91d10e-d6f6-4b5a-933c-a04932a8dc1c</guid>
-            <pubDate>Sat, 05 Mar 2016 22:24:35 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 22:31:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
